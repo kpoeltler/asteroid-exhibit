@@ -1,3 +1,4 @@
 # asteroid-exhibit
 asteroid exhibit at Palisades-Dows Observatory
-Animations created by 
+CSS Animations created by the digital designer pro Jamie Coulter out of the UK. 
+
