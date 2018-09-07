@@ -28,7 +28,7 @@ body .solar_systm .planet.earth .trajectory.m, body .solar_systm .planet.mars .t
   position: absolute;
   border-radius: 3400px;
   background: none !important;
-  z-index: -2;
+  z-index: -3;
 }
 
 body .solar_systm .planet {
