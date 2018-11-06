@@ -420,18 +420,7 @@ body input[type="radio"][name="planet"].planet1:checked + label.mars > .info h3 
 body input[type="radio"][name="planet"].planet1:checked + label.jupiter > .info h3 {
   color: orange;
 }
-body input[type="radio"][name="planet"].planet1:checked + label.saturn > .info h3 {
-  color: #b29d81;
-}
-body input[type="radio"][name="planet"].planet1:checked + label.uranus > .info h3 {
-  color: #8dcdd8;
-}
-body input[type="radio"][name="planet"].planet1:checked + label.neptune > .info h3 {
-  color: #4f83e2;
-}
-body input[type="radio"][name="planet"].planet1:checked + label.pluto > .info h3 {
-  color: #FF8732;
-}
+
 body input[type="radio"][name="planet"].planet1:checked + label {
   opacity: 1;
 }
