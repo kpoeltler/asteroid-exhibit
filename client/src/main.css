@@ -295,15 +295,7 @@ body label.menu:nth-of-type(9) {
 }
 body input.read {
   display: none;
-}
-body .read:checked + label + input + .panel {
-  right: 0;
-}
-body .read:checked + label {
-  width: calc(100% - 420px);
-}
-body .read:checked + label::after {
-  opacity: 1;
+}`
   left: 0;
 }
 body .read:checked + label + label {
