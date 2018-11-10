@@ -92,8 +92,8 @@ body .solar_systm .planet .moon h3 {
 }
 body .solar {
   position: absolute;
-  -webkit-transform: rotatex(-20deg);
-          transform: rotatex(-20deg);
+  -webkit-transform: rotatex(-25deg);
+          transform: rotatex(-25deg);
   -webkit-perspective: 800px;
           perspective: 800px;
   width: 100%;
