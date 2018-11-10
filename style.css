@@ -308,12 +308,12 @@ body label.closeBig {
 
 /* BACK BUTTON */
 body label.closeBig::after {
-  content: 'Back';
+  content: 'Click here to go back';
   text-align: center;
-  font-size: 30px;
+  font-size: 50px;
   color: white;
   position: absolute;
-  left: -140px;
+  left: -180px;
   opacity: 0;
   right: 0;
   top: 50%;
@@ -1320,31 +1320,49 @@ body .solar_systm .planet_description.mercury a {
   color: #E8927C;
 }
 body .solar_systm .planet_description.mercury h2 {
-  color: #f7dad3;
+  color: hsl(13, 89%, 72%);
+  font-size: larger;
+  font-weight: bold;
 }
 body .solar_systm .planet_description.venus a {
   color: #b45d15;
+  font-size: larger;
+  font-weight: bold;
 }
 body .solar_systm .planet_description.venus h2 {
   color: #e99046;
+  font-size: larger;
+  font-weight: bold;
 }
 body .solar_systm .planet_description.earth a {
   color: #26daaa;
+  font-size: larger;
+  font-weight: bold;
 }
 body .solar_systm .planet_description.earth h2 {
   color: #7de9cc;
+  font-size: larger;
+  font-weight: bold;
 }
 body .solar_systm .planet_description.mars a {
   color: #e55f45;
+  font-size: larger;
+  font-weight: bold;
 }
 body .solar_systm .planet_description.mars h2 {
   color: #f2ac9e;
+  font-size: larger;
+  font-weight: bold;
 }
 body .solar_systm .planet_description.jupiter a {
   color: orange;
+  font-size: larger;
+  font-weight: bold;
 }
 body .solar_systm .planet_description.jupiter h2 {
   color: #ffc966;
+  font-size: larger;
+  font-weight: bold;
 }
 
 body .solar_systm .planet_description h1,
@@ -1352,7 +1370,7 @@ body .solar_systm .planet_description h2,
 body .solar_systm .planet_description p,
 body .solar_systm .planet_description a {
   font-weight: 100;
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 5px;
   margin: 0;
 }
