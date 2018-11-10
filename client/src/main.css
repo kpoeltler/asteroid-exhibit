@@ -332,10 +332,10 @@ body label.closeBig {
 body label.closeBig::after {
   content: 'Back';
   text-align: center;
-  font-size: 30px;
+  font-size: 60px;
   color: white;
   position: absolute;
-  left: -140px;
+  left: -190px;
   opacity: 0;
   right: 0;
   top: 50%;
